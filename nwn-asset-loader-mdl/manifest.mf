@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: me.foxhaven.nwn.mdl
+OpenIDE-Module-Localizing-Bundle: me/foxhaven/nwn/mdl/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
